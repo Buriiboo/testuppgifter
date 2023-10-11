@@ -1,0 +1,14 @@
+C:\Users\Burai\OneDrive\Documents\GitHub\testuppgifter\bin\Debug\net7.0\testuppgifter.exe
+C:\Users\Burai\OneDrive\Documents\GitHub\testuppgifter\bin\Debug\net7.0\testuppgifter.deps.json
+C:\Users\Burai\OneDrive\Documents\GitHub\testuppgifter\bin\Debug\net7.0\testuppgifter.runtimeconfig.json
+C:\Users\Burai\OneDrive\Documents\GitHub\testuppgifter\bin\Debug\net7.0\testuppgifter.dll
+C:\Users\Burai\OneDrive\Documents\GitHub\testuppgifter\bin\Debug\net7.0\testuppgifter.pdb
+C:\Users\Burai\OneDrive\Documents\GitHub\testuppgifter\obj\Debug\net7.0\testuppgifter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Burai\OneDrive\Documents\GitHub\testuppgifter\obj\Debug\net7.0\testuppgifter.AssemblyInfoInputs.cache
+C:\Users\Burai\OneDrive\Documents\GitHub\testuppgifter\obj\Debug\net7.0\testuppgifter.AssemblyInfo.cs
+C:\Users\Burai\OneDrive\Documents\GitHub\testuppgifter\obj\Debug\net7.0\testuppgifter.csproj.CoreCompileInputs.cache
+C:\Users\Burai\OneDrive\Documents\GitHub\testuppgifter\obj\Debug\net7.0\testuppgifter.dll
+C:\Users\Burai\OneDrive\Documents\GitHub\testuppgifter\obj\Debug\net7.0\refint\testuppgifter.dll
+C:\Users\Burai\OneDrive\Documents\GitHub\testuppgifter\obj\Debug\net7.0\testuppgifter.pdb
+C:\Users\Burai\OneDrive\Documents\GitHub\testuppgifter\obj\Debug\net7.0\testuppgifter.genruntimeconfig.cache
+C:\Users\Burai\OneDrive\Documents\GitHub\testuppgifter\obj\Debug\net7.0\ref\testuppgifter.dll
